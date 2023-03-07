@@ -9,5 +9,5 @@ public:
             maxprofit = max(maxprofit,price[i]-minprice);
         }
         return maxprofit;
-    }
+    } .
 };
